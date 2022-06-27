@@ -1,2 +1,4 @@
 # Bone-Fracture-Detection
 Detect the bone fractures in the image using convolutional neural network
+
+The bone is a major component of the human body. Bone provides the ability to move the body. The bone fractures are common in the human body. The doctors use the X-ray image to diagnose the fractured bone. The manual fracture detection technique is time consuming and also error probability chance is high. Therefore, an automated system needs to develop to diagnose the fractured bone. The Deep Neural Network (DNN) is widely used for the modeling of the power electronic devices. In the present study, a deep neural network model has been developed to classify the fracture and healthy bone. The deep learning model gets over fitted on the small data set. Therefore, data augmentation techniques have been used to increase the size of the data set. 
